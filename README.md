@@ -1,5 +1,7 @@
 # OSC Sequencer for Pure Data
 
+Video Link: https://youtu.be/v1r74EWErpU
+
 A minimalist **OSC-controlled** music sequencer built in **Pure Data**. Control transport, individual voices (bass, hi-hat, snare, kick), and FX (reverb, distortion) from any OSC controller.
 
 > **Main patch:** `seqMain.pd`
